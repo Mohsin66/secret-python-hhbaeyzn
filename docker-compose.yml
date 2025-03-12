@@ -1,0 +1,16 @@
+version: "3.9"
+
+services:
+  anaconda_microservice:
+    build: .
+    container_name: anaconda_microservice
+    image: anaconda-microservice
+    networks:
+      - anaconda
+    ports:
+      - "9000:3000"
+
+networks:
+  # The network anaconda specifies the network of postgres, redis and adminer
+  anaconda:
+    external: true

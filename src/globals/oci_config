@@ -1,0 +1,15 @@
+[DEFAULT]
+user=ocid1.user.oc1..aaaaaaaaptqf75lpglhgo73hcirliu3kmgnqslpzuhpoz2mivj3bo5i5vkvq
+fingerprint=c6:de:53:4c:87:69:13:07:c0:39:d8:81:d5:fd:e0:71
+key_file=oci_key.pem
+tenancy=ocid1.tenancy.oc1..aaaaaaaaglxacipjfz54eby3j5ogdtfxulrhelbsu4ekovzjahrvu5x44roa
+region=me-jeddah-1
+pass_phrase=67645
+namespace=axzo4dizyrjt
+
+[ADMIN_USER]
+user=ocid1.user.oc1..aaaaaaaaptqf75lpglhgo73hcirliu3kmgnqslpzuhpoz2mivj3bo5i5vkvq
+fingerprint=c6:de:53:4c:87:69:13:07:c0:39:d8:81:d5:fd:e0:71
+key_file=oci_key.pem
+pass_phrase=67645
+namespace=axzo4dizyrjt

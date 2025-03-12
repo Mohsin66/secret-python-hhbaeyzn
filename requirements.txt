@@ -1,0 +1,25 @@
+# Kafka-related libraries
+kafka-python
+aiokafka
+
+# FastAPI and ASGI Server
+fastapi
+uvicorn
+
+# Redis for caching
+redis
+
+# Data handling
+pandas
+
+# Async utilities
+asyncio
+
+# Logging utilities
+loguru
+
+#json serialization
+ijson
+
+# Other dependencies
+python-dotenv  # For environment variable management
